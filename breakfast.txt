@@ -4,3 +4,5 @@ Irene's breakfast:
 - oats
 - honey and cinnamon
 - black coffee
+toast
+coffee
